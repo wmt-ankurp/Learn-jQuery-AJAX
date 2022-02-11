@@ -1,0 +1,10 @@
+#fshowError, #mshowError, #eshowError, #pshowError, #cshowError{
+    font-size:smaller;
+}
+.sml{
+    font-size:x-small;
+} 
+#submit{
+    color: silver;
+    background-color: #2C3333;
+}
